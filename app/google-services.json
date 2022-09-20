@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097641352697",
+    "firebase_url": "https://snapshots-6bc96-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "snapshots-6bc96",
+    "storage_bucket": "snapshots-6bc96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097641352697:android:2e4669ff7f90991a8b3128",
+        "android_client_info": {
+          "package_name": "com.example.snapshots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097641352697-0lfujv24m9r6odv8mgn837m9h9vfa1oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkwul50K2bdDPmu-X423kp7RobpObVGqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097641352697-0lfujv24m9r6odv8mgn837m9h9vfa1oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
